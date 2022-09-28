@@ -87,7 +87,7 @@ function showPickers(){
                     if(winAnswer) location.reload()
                     else{
                         window.alert(`Good Bye :)`)
-                        location.href =  'https://www.javascripttutorial.net/';
+                        location.href =  'http://make-everything-ok.com//';
                     }
                 }
             }else {
@@ -97,7 +97,7 @@ function showPickers(){
                     location.reload()
                 }else{
                     window.alert(`Good Bye :)`)
-                    location.href =  'https://www.javascripttutorial.net/';
+                    location.href =  'http://make-everything-ok.com//';
                 }
                 
             }
